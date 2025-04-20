@@ -26,7 +26,7 @@ export const HERO_CONTENT = {
   description:
     "Saya Sebagai.",
   resumeLinkText: "Download Resume",
-  resumeLink: resume,
+  // resumeLink: resume,
 };
 
 export const PROJECTS = [
