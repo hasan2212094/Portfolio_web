@@ -12,6 +12,7 @@ import person4 from "../assets/person4.webp";
 import person5 from "../assets/person5.webp";
 import person6 from "../assets/person6.webp";
 
+
 export const LINKS = [
   { href: "#work", label: "Work" },
   { href: "#about", label: "About" },
@@ -26,7 +27,7 @@ export const HERO_CONTENT = {
   description:
     "Saya Sebagai.",
   resumeLinkText: "Download Resume",
-  // resumeLink: resume,
+  resumeLink: "/resume.pdf",
 };
 
 export const PROJECTS = [
